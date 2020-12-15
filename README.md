@@ -1,6 +1,7 @@
 # BestTrace-For-Linux
 VPS回程路由追踪工具使用说明：
 先安装解压工具
+
 mkdir -p mtr && cd mtr && wget --no-check-certificate https://raw.githubusercontent.com/mrlong520/BestTrace-For-Linux/main/besttrace4linux.zip
 unzip besttrace4linux.zip
 chmod +x besttrace
